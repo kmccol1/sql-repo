@@ -1,4 +1,4 @@
--- KYLE MCCOLGAN
+-- sample data for my oracle database
 
 -- CONTACT
 
